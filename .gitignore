@@ -1,0 +1,4 @@
+# Ignore raw_leaves, train, and val directories inside data
+plantapp/data/raw_leaves/
+plantapp/data/train/
+plantapp/data/val/
